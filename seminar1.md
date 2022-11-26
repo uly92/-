@@ -1,4 +1,4 @@
-## Git edication 
+## Git edication. Commits 
 
 *git init* - команда инициализирующая репозиторий. 
 
