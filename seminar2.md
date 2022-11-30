@@ -4,4 +4,4 @@
 
 ## Branch merging
 
-## Conflicts
+## Conflicts создать

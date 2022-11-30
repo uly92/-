@@ -4,4 +4,3 @@ ort слияние
 
 Fast forword - 
 
-* изменения 
